@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I know:
+- Russian
+- English (not good)
+- Java
+- Kotlin
+- CPP (not good)
+- C#
+
+Main languages:
+- Russian
+- Java
+- Kotlin
